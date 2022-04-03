@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/clear_null_geometry" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
