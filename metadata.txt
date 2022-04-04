@@ -6,7 +6,7 @@
 name=Clear Null Geometry
 qgisMinimumVersion=3.0
 description=Clear Null Geometry is a QGIS Plugin which is use to remove all Null geometries from selected layers.
-version=0.1
+version=0.2
 author=Mirjan Ali Sha
 email=mirrjanalisha@gmail.com
 
@@ -29,7 +29,7 @@ homepage=https://github.com/Mirjan-Ali-Sha/clear_null_geometry/wiki
 category=Vector
 icon=icon.png
 # experimental flag
-experimental=True
+experimental=False
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
